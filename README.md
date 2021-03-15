@@ -1,9 +1,6 @@
 # Order-Food
-Website bán đồ ăn
-Đối tượng phục vụ: Tất cả mọi người
-# Chức năng: 
-  Khách hàng tìm đồ ăn mà mình yêu cầu
-  Admin có thể quản lý các đơn đặt hàng, vận chuyển, thêm sản phẩm.
+![Order Food](https://user-images.githubusercontent.com/72095551/111169721-cdab0e80-85d5-11eb-8c53-4361a3ca41e4.jpg)
+
  
 
   
