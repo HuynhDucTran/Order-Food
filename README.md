@@ -1,5 +1,6 @@
 # Web sell rubic
-[Uploading DucSonHai.pdf…]()
+![Uploading image.png…]()
+
 
 
  
